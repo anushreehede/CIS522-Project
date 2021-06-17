@@ -1,0 +1,18 @@
+---
+:id: 37240196
+:submitters:
+- :name: Anthony C Colangeli
+  :email: colange@seas.upenn.edu
+- :name: Xiangshi Dai
+  :email: xiangshi@seas.upenn.edu
+- :name: Rahul Singh Katoch
+  :email: rskatoch@seas.upenn.edu
+- :name: Anushree Surendra Hede
+  :email: anuhede@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-05-08 03:54:04.923959000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-05-07 20:54:04.923959000 Z
+:status: processed
+:score: 100.0

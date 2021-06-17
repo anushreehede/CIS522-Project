@@ -1,0 +1,9 @@
+numpy
+nvidia-ml-py3
+nltk
+torch
+skimage
+simplejson
+logging
+torchtext
+dill
